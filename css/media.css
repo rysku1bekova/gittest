@@ -1,0 +1,39 @@
+@media (max-width: 1330px){
+	.contact_maplatter{
+		display: block;
+	}
+	.map_text,
+	.letter_text{
+		text-align: center;
+		font-size: 23px;
+		margin-top: 20px;
+	}
+	iframe{
+		width: 800px;
+	}
+	.letter textarea{
+		width: 800px;
+	}
+	.email_text{
+		font-size: 25px;
+	}
+	.email button{
+		margin: 0px -17px;
+		font-size: 23px;
+	}
+	.footer_copy-text{
+		display: block;
+	}
+	.copy_text1{
+		text-align: center;
+		font-size: 24px;
+	}
+}
+@media (max-width: 1000px){
+	
+	.our_team{
+		margin: 10px;
+	}	
+}
+
+
